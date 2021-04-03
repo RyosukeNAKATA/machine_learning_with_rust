@@ -1,0 +1,6 @@
+gym
+atari_py
+Pillow
+opencv-python
+box2d-py
+imageio
